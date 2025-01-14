@@ -18,8 +18,6 @@ I am a junior programmer. I work with several languages but mostly with C# makin
 
 Itch.io : https://f3d9.itch.io
 
-Fiverr : www.fiverr.com/f3d3_09
-
 Gmail : federico.salgado2109@gmail.com
 
 
