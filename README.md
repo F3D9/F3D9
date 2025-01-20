@@ -2,7 +2,7 @@
         <h1>Hi, I'm Fede</h1>
 </div>
 
-I am a junior programmer. I work with several languages but mostly with C# making games in Unity, and I study Computer Engineering. 
+I am a junior programmer. I work with several languages but mostly with Python and C#, and I study Computer Engineering. 
 
 ## Stack
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
