@@ -16,10 +16,11 @@ I am a junior programmer. I work with several languages but mostly with Python a
 
 ## Links
 
-Itch.io : https://f3d9.itch.io
+Linkedin: https://www.linkedin.com/in/federico-salgado/
 
 Gmail : federico.salgado2109@gmail.com
 
+Itch.io : https://f3d9.itch.io
 
 
 <!--
