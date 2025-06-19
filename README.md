@@ -5,7 +5,7 @@
 I am a junior programmer. I work with several languages but mostly with Python and C#, and I study Computer Engineering. 
 
 ## Stack
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<!--/![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)-->
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,21 +19,7 @@ I am a junior programmer. I work with several languages but mostly with Python a
 Linkedin: https://www.linkedin.com/in/federico-salgado/
 
 Gmail : federico.salgado2109@gmail.com
-
-Itch.io : https://f3d9.itch.io
-
-
 <!--
-**F3D9/F3D9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Itch.io : https://f3d9.itch.io
 -->
+
