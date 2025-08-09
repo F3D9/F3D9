@@ -2,7 +2,7 @@
         <h1>Hi, I'm Fede</h1>
 </div>
 
-I am a junior programmer. I work with several languages but mostly with Python, Javascript, C and C#, and I study Computer Engineering. 
+I am a junior programmer. I work with several languages but mostly with Python, SQL, C and C#, and I study Computer Engineering. 
 
 ## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
