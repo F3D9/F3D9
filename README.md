@@ -1,27 +1,89 @@
 <div align="center">
-        <h1>Hi, I'm Fede</h1>
+
+# Hola, soy Federico 👋
+
+### Backend Developer (Node.js)
+
+Desarrollador backend enfocado en construir **APIs, sistemas de autenticación y aplicaciones basadas en bases de datos**.
+
+Actualmente estudio **Ingeniería en Computación** mientras desarrollo proyectos backend utilizando **Node.js, PostgreSQL, Docker e integraciones con IA**.
+
 </div>
 
-I am a junior programmer. I work with several languages but mostly with Python, SQL, C and C#, and I study Computer Engineering. 
+---
 
-## Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+# Sobre mí
 
-## Links
+Me interesa especialmente el desarrollo de **sistemas backend** y entender cómo funcionan los servicios reales en producción.
 
-Linkedin: https://www.linkedin.com/in/federico-salgado/
+Mis principales áreas de interés son:
 
-Gmail : federico.salgado2109@gmail.com
-<!--
-Itch.io : https://f3d9.itch.io
--->
+* Desarrollo de **APIs REST**
+* Sistemas de **autenticación con JWT**
+* Diseño de **bases de datos**
+* Manejo seguro de contraseñas
+* **Contenedores con Docker**
+* **Despliegue en la nube**
+
+Actualmente estoy buscando oportunidades como **Backend Developer Junior (Node.js)**.
+
+---
+
+# Tech Stack
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Bases de Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Seguridad
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![bcrypt](https://img.shields.io/badge/bcrypt-grey?style=for-the-badge)
+
+### DevOps y Herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+# Proyecto Destacado
+
+### AI Chatbot Backend
+
+API backend para un **chatbot con inteligencia artificial** desarrollado con **Node.js, Express y PostgreSQL**.
+
+Características principales:
+
+* Autenticación de usuarios con **JWT**
+* Hash seguro de contraseñas con **bcrypt**
+* Base de datos **PostgreSQL**
+* Entorno **Dockerizado**
+* Integración con **Google Gemini API**
+* Despliegue en la nube
+
+Demo en producción:
+
+https://chatbotnodejs.up.railway.app
+
+---
+
+# Contacto
+
+LinkedIn
+https://www.linkedin.com/in/federico-salgado/
+
+Email
+[federico.salgado2109@gmail.com](mailto:federico.salgado2109@gmail.com)
+
+---
+
+⭐ Abierto a oportunidades como **Backend Developer Junior**
+
 
