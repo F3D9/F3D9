@@ -6,7 +6,7 @@
 
 Desarrollador backend enfocado en construir **APIs, sistemas de autenticación y aplicaciones basadas en bases de datos**.
 
-Actualmente estudio **Ingeniería en Computación** mientras desarrollo proyectos backend utilizando **Node.js, PostgreSQL, Docker e integraciones con IA**.
+Actualmente estudio **Ingeniería en Informática** mientras desarrollo proyectos backend utilizando **Node.js, PostgreSQL, Docker e integraciones con IA**.
 
 </div>
 
