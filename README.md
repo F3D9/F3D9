@@ -35,6 +35,7 @@ Actualmente estoy buscando oportunidades como **Backend Developer Junior (Node.j
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Bases de Datos
 
