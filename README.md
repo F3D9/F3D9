@@ -7,7 +7,7 @@ Desarrollador Fullstack Junior cursando **Ingeniería en Informática en la UBA*
 Construyo APIs, sistemas de autenticación, interfaces con React y deploys reales en producción.
 Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-salgado-a43b9827a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-salgado/)
 [![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://f3d9.github.io/Portafolio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:federico.salgado2109@gmail.com)
 
