@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hola, soy Federico 👋
+
 ### Fullstack Developer · Foco en Backend
 
 Desarrollador Fullstack Junior cursando **Ingeniería en Informática en la UBA**.
@@ -21,8 +22,8 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 - 🔧 Foco en **backend**: arquitectura en capas, APIs REST, autenticación JWT, bases de datos relacionales
 - ⚛️ En frontend trabajo con **React + Vite**
 - 🤖 Experiencia integrando **IA generativa** en producción (Google Gemini API)
-- 🚀 Proyectos deployados con **Docker + Railway + GitHub Actions**
-- 📍 Buenos Aires — disponible para CABA o remoto
+- 🚀 Proyectos deployados con **Docker, Render, Railway y GitHub Actions**
+- 📍 Buenos Aires — disponible para CABA (híbrido) o remoto
 
 ---
 
@@ -31,6 +32,7 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
@@ -41,10 +43,12 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### DevOps & Testing
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
@@ -55,7 +59,18 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 
 ---
 
-## Proyecto Destacado
+## Proyectos Destacados
+
+### 🏋️ GymTracker — App de Seguimiento de Entrenamientos
+Aplicación full-stack para armar rutinas de gimnasio y registrar entrenamientos.
+
+- Backend en **NestJS + Prisma**, organizado en módulos independientes (usuarios, rutinas, ejercicios, series, entrenamientos)
+- Autenticación con **JWT en cookies httpOnly**, configurando CORS y cookies cross-site para frontend y backend en dominios distintos
+- Frontend en **React + TypeScript**, separando fetch (services), hooks custom y componentes de UI
+- Modelado de base de datos en **PostgreSQL** con Prisma resolviendo relaciones entre rutinas, ejercicios y sesiones
+- Deploy en producción: backend en **Render**, frontend en **GitHub Pages**
+
+🔗 [Demo en produccion](https://f3d9.github.io/Gym-Tracker-Frontend/) · [Código fuente](https://github.com/F3D9/Gym-Tracker-Frontend)
 
 ### 🤖 AI Chatbot — Node.js + Gemini
 Backend completo para un chatbot con IA integrada.
@@ -72,5 +87,3 @@ Backend completo para un chatbot con IA integrada.
 ---
 
 ⭐ Abierto a oportunidades como **Fullstack / Backend Developer** — CABA o remoto
-
-
