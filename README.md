@@ -4,7 +4,7 @@
 
 ### Fullstack Developer · Foco en Backend
 
-Desarrollador Fullstack Junior cursando **Ingeniería en Informática en la UBA**.
+Desarrollador Fullstack cursando **Ingeniería en Informática en la UBA**.
 Construyo APIs, sistemas de autenticación, interfaces con React y deploys reales en producción.
 Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 
@@ -22,6 +22,7 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 - 🔧 Foco en **backend**: arquitectura en capas, APIs REST, autenticación JWT, bases de datos relacionales
 - ⚛️ En frontend trabajo con **React + Vite**
 - 🤖 Experiencia integrando **IA generativa** en producción (Google Gemini API)
+- 🎮 Desarrollo también juegos y simuladores interactivos en el navegador
 - 🚀 Proyectos deployados con **Docker, Render, Railway y GitHub Actions**
 - 📍 Buenos Aires — disponible para CABA (híbrido) o remoto
 
@@ -56,6 +57,7 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -70,7 +72,7 @@ Aplicación full-stack para armar rutinas de gimnasio y registrar entrenamientos
 - Modelado de base de datos en **PostgreSQL** con Prisma resolviendo relaciones entre rutinas, ejercicios y sesiones
 - Deploy en producción: backend en **Render**, frontend en **GitHub Pages**
 
-🔗 [Demo en produccion](https://f3d9.github.io/Gym-Tracker-Frontend/) · [Código fuente](https://github.com/F3D9/Gym-Tracker-Frontend)
+🔗 [Demo en producción](https://f3d9.github.io/Gym-Tracker-Frontend/) · [Código fuente](https://github.com/F3D9/Gym-Tracker-Frontend)
 
 ### 🤖 AI Chatbot — Node.js + Gemini
 Backend completo para un chatbot con IA integrada.
@@ -83,6 +85,17 @@ Backend completo para un chatbot con IA integrada.
 - Deploy automatizado con **Docker + Railway** (CI/CD en cada push)
 
 🔗 [Demo en producción](https://chatbotnodejs.up.railway.app) · [Código fuente](https://github.com/F3D9/ChatBotNodeJs)
+
+### 🏎️ Fierrero — Career Mode de Fórmula 1
+Juego de gestión de carrera en el mundo del automovilismo, jugable directo desde el navegador: manejás el recorrido de un piloto de F1, elegís equipo y tomás decisiones que definen tu historia temporada a temporada.
+
+- Sistema de decisiones que impactan el rumbo de la carrera (fichajes, continuidad en el equipo, eventos de riesgo)
+- Sistema de trofeos con animaciones y seguimiento de logros
+- Historial de carrera con estadísticas por temporada y dos modos de juego (Normal e Intenso)
+- Construido con **React + TypeScript + Vite**, con foco en performance y experiencia mobile-first
+- Deploy automático a **GitHub Pages** con **GitHub Actions** en cada push a `main`
+
+🔗 [Jugar ahora](https://fierrero-game.github.io/Fierrero/) · [Código fuente](https://github.com/fierrero-game/Fierrero)
 
 ---
 
