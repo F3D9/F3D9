@@ -2,11 +2,8 @@
 
 # Hola, soy Federico 👋
 
-### Fullstack Developer · Foco en Backend
-
-Desarrollador Fullstack cursando **Ingeniería en Informática en la UBA**.
-Construyo APIs, sistemas de autenticación, interfaces con React y deploys reales en producción.
-Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
+Mi objetivo es unirme a un equipo en el que pueda aprender y enriquecer mi carrera profesional, mejorando tanto mis habilidades técnicas como las blandas, y sumando valor.
+Trabajo con **Node.js, TypeScript, React y PostgreSQL**, y estoy cursando el tercer año de **Ingeniería Informática en la UBA**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-salgado/)
 [![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://f3d9.github.io/Portafolio)
@@ -18,13 +15,19 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 
 ## Sobre mí
 
-- 🎓 Cursando **Ingeniería en Informática** en la UBA (Algoritmos, Sistemas Operativos, Organización del Computador)
-- 🔧 Foco en **backend**: arquitectura en capas, APIs REST, autenticación JWT, bases de datos relacionales
-- ⚛️ En frontend trabajo con **React + Vite**
-- 🤖 Experiencia integrando **IA generativa** en producción (Google Gemini API)
-- 🎮 Desarrollo también juegos y simuladores interactivos en el navegador
-- 🚀 Proyectos deployados con **Docker, Render, Railway y GitHub Actions**
-- 📍 Buenos Aires — disponible para CABA (híbrido) o remoto
+- 🎓 Cursando **Ingeniería Informática** en la UBA (2023 – presente)
+- 🔧 Foco en **backend**: APIs REST, arquitectura modular, autenticación JWT, bases de datos relacionales
+- ⚛️ En frontend trabajo con **React + Vite + TypeScript**
+- 🤖 Experiencia integrando **IA generativa** (Google Gemini API) y uso de agentes de IA como Claude y Gemma 4
+- 🚀 Proyectos en producción con **Docker, Render, Railway y GitHub Actions**
+- ☁️ Certificación **AWS Certified Cloud Practitioner** en proceso
+- 📍 Buenos Aires — disponible para modalidad presencial, híbrida o remota en CABA
+
+### Formación
+
+- **Ingeniería Informática** — Universidad de Buenos Aires (2023 – presente)
+- **Java para Principiantes** — TodoCode Academy (Octubre 2026)
+- **AWS Certified Cloud Practitioner** — en proceso
 
 ---
 
@@ -40,6 +43,8 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -51,13 +56,15 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Lenguajes
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -66,37 +73,24 @@ Busco sumarme a un equipo donde pueda crecer y aportar desde el día uno.
 ### 🏋️ GymTracker — App de Seguimiento de Entrenamientos
 Aplicación full-stack para armar rutinas de gimnasio y registrar entrenamientos.
 
-- Backend en **NestJS + Prisma**, organizado en módulos independientes (usuarios, rutinas, ejercicios, series, entrenamientos)
-- Autenticación con **JWT en cookies httpOnly**, configurando CORS y cookies cross-site para frontend y backend en dominios distintos
-- Frontend en **React + TypeScript**, separando fetch (services), hooks custom y componentes de UI
-- Modelado de base de datos en **PostgreSQL** con Prisma resolviendo relaciones entre rutinas, ejercicios y sesiones
-- Deploy en producción: backend en **Render**, frontend en **GitHub Pages**
-
-🔗 [Demo en producción](https://f3d9.github.io/Gym-Tracker-Frontend/) · [Código fuente](https://github.com/F3D9/Gym-Tracker-Frontend)
-
-### 🤖 AI Chatbot — Node.js + Gemini
+- API REST en **NestJS + TypeScript** con más de 30 endpoints, organizada en módulos (autenticación, usuarios, ejercicios, rutinas, entrenamientos e historial por ejercicio)
+- Modelado en **PostgreSQL + Prisma**: usuarios, ejercicios, rutinas y entrenamientos, con migraciones y un seed para cargar el catálogo de ejercicios
+- Autenticación con **JWT en cookies httpOnly** (el token no queda expuesto al JavaScript del cliente), con CORS configurado para frontend y backend en dominios distintos; validación de entrada con **class-validator**
+- Frontend en **React + TypeScript + Vite + React Router**, con precarga del peso y las repeticiones del último entrenamiento
+- Deploy: backend en **Render**, frontend en **GitHub Pages** con deploy automático vía **GitHub Actions**; **Docker Compose** para PostgreSQL en desarrollo
+### 🤖 Chatbot Web con IA — Node.js + Gemini
 Backend completo para un chatbot con IA integrada.
 
-- Arquitectura en capas con **Node.js, Express y TypeScript**
-- Autenticación con **JWT** y autorización por roles
-- Historial de conversaciones persistido en **PostgreSQL (Neon cloud)**
-- Integración con **Google Gemini API** para procesamiento de lenguaje natural
-- Tests unitarios y de integración con **Vitest**
-- Deploy automatizado con **Docker + Railway** (CI/CD en cada push)
-
-🔗 [Demo en producción](https://chatbotnodejs.up.railway.app) · [Código fuente](https://github.com/F3D9/ChatBotNodeJs)
-
+- API REST con **Node.js, Express y TypeScript**: registro, inicio de sesión y autorización por roles
+- Integración con **Google Gemini API**, con contexto multiturno (recuerda los mensajes anteriores de la conversación)
+- Historial de chat persistente por usuario en **PostgreSQL (Neon)**
+- **JWT, bcrypt y Zod**: autenticación, hash seguro de contraseñas y validación de los datos que recibe la API
+- Tests unitarios y de integración con **Vitest y Supertest**
+- Contenerizado con **Docker** y deployado en **Railway** con CI/CD en cada push
 ### 🏎️ Fierrero — Career Mode de Fórmula 1
-Juego de gestión de carrera en el mundo del automovilismo, jugable directo desde el navegador: manejás el recorrido de un piloto de F1, elegís equipo y tomás decisiones que definen tu historia temporada a temporada.
+Juego de gestión de carrera jugable en el navegador: manejás el recorrido de un piloto de F1, elegís equipo y tomás decisiones que definen tu historia temporada a temporada.
 
-- Sistema de decisiones que impactan el rumbo de la carrera (fichajes, continuidad en el equipo, eventos de riesgo)
-- Sistema de trofeos con animaciones y seguimiento de logros
-- Historial de carrera con estadísticas por temporada y dos modos de juego (Normal e Intenso)
-- Construido con **React + TypeScript + Vite**, con foco en performance y experiencia mobile-first
+- Sistema de decisiones que impactan la carrera (fichajes, continuidad en el equipo, eventos de riesgo)
+- Sistema de trofeos con animaciones, historial por temporada y dos modos de juego (Normal e Intenso)
+- **React + TypeScript + Vite**, con foco en performance y experiencia mobile-first
 - Deploy automático a **GitHub Pages** con **GitHub Actions** en cada push a `main`
-
-🔗 [Jugar ahora](https://fierrero-game.github.io/Fierrero/) · [Código fuente](https://github.com/fierrero-game/Fierrero)
-
----
-
-⭐ Abierto a oportunidades como **Fullstack / Backend Developer** — CABA o remoto
